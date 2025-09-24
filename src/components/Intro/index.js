@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import { Component } from "react";
 import "./index.css";
 class Intro extends Component {
@@ -13,19 +12,3 @@ class Intro extends Component {
 }
 
 export default Intro;
-=======
-import { Component } from "react";
-import "./index.css";
-class Intro extends Component {
-  render() {
-    return (
-      <div className="intro">
-        <h1>Welcome to Todo App</h1>
-        <p>Manage your tasks efficiently and stay organized!</p>
-      </div>
-    );
-  }
-}
-
-export default Intro;
->>>>>>> c6d68d36fa4cbec1158409ba63957665446eff27

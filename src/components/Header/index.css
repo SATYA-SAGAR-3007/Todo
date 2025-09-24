@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 * {
   box-sizing: border-box;
 }
@@ -46,51 +45,3 @@
   color: #61dafb;
   transform: scale(1.2);
 }
-=======
-* {
-  box-sizing: border-box;
-}
-.header {
-  height: 10vh;
-  background-color: #282c34;
-  min-height: 10vh;
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: space-between;
-  color: white;
-  padding: 0 20px;
-}
-
-.header > img {
-  border-radius: 30px 0px;
-  width: 10%;
-  max-width: 70px;
-}
-
-.nav-items {
-  max-width: 250px;
-  margin: 0 15px;
-  text-decoration: none;
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  color: white;
-  justify-content: space-around;
-  width: 40%;
-}
-
-.nav-items > * {
-  text-decoration: none;
-  color: white;
-  cursor: pointer;
-  transition: color 0.5s ease-in-out, border-color 0.5s ease-in-out,
-    transform 0.5s ease-in-out;
-  border-bottom: 2px solid transparent; /* starting state */
-}
-.nav-items > *:hover {
-  border-bottom-color: #61dafb;
-  color: #61dafb;
-  transform: scale(1.2);
-}
->>>>>>> c6d68d36fa4cbec1158409ba63957665446eff27
