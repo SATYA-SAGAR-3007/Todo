@@ -10,6 +10,7 @@ function App() {
   return (
     <div className="main-container">
       <Header />
+      <h1>This is a Heading</h1>
       <Routes>
         <Route path="/" Component={Intro} />
         <Route path="/home" Component={Home} />
