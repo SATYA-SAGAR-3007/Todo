@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .intro {
   display: flex;
   flex-direction: column;
@@ -6,3 +7,13 @@
   height: 90vh;
   background-color: #f0f0f0;
 }
+=======
+.intro {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 90vh;
+  background-color: #f0f0f0;
+}
+>>>>>>> c6d68d36fa4cbec1158409ba63957665446eff27

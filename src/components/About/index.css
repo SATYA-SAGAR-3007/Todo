@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .about {
   width: 100%;
   height: 90vh;
@@ -6,3 +7,13 @@
   align-items: center;
   justify-content: center;
 }
+=======
+.about {
+  width: 100%;
+  height: 90vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+>>>>>>> c6d68d36fa4cbec1158409ba63957665446eff27
